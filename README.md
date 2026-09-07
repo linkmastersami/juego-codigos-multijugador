@@ -1,4 +1,5 @@
-# Estratega de Códigos — juego web 2-4 jugadores
+Plataforma web con 4 juegos multijugador (Estratega de Códigos, Drift, Monster Crazy, Batalla de Avatares), login con Supabase, ranking global y tienda de avatares. Instalable como app (PWA) en el celular.
+
 
 Juego de deducción tipo "desactivar la bomba": cada jugador tiene un código
 secreto de 5 números (ocultos incluso para sí mismo) y va revelando fichas
