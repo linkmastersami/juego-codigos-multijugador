@@ -1,4 +1,4 @@
-Plataforma web con 4 juegos multijugador (Estratega de Códigos, Drift, Monster Crazy, Batalla de Avatares), login con Supabase, ranking global y tienda de avatares. Instalable como app (PWA) en el celular.
+## Plataforma web con 4 juegos multijugador (Estratega de Códigos, Drift, Monster Crazy, Batalla de Avatares), login con Supabase, ranking global y tienda de avatares. Instalable como app (PWA) en el celular.
 
 
 Juego de deducción tipo "desactivar la bomba": cada jugador tiene un código
